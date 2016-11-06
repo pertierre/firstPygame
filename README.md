@@ -1,4 +1,2 @@
-# hello-world
-First Repository
-
-Just a test
+# First Pygame
+The creation of a simple game using Pygame
